@@ -6,6 +6,7 @@ db.sqlite3
 .DS_Store
 test.py
 settings.py
+requirements.txt
 *.csv
 *.xlsx
 *.xls
