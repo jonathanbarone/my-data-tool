@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+test.py
+settings.py
+*.csv
+*.xlsx
+*.xls
+*.log
